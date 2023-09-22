@@ -1,0 +1,7 @@
+# local mongodb connection
+spring:
+  data:
+    mongodb:
+      database: samplespringapi
+      host: localhost
+      port: 27017
